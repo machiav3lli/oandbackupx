@@ -70,10 +70,10 @@
     <!-- tools_backupsDeleted: shown in a notification followed by the number of backups deleted -->
     <string name="batchDeleteBackupsDeleted">Usunięto kopie zapasowe:</string>
     <string name="batchDeleteNothingToDelete">Brak kopii zapasowych do usunięcia</string>
-    <string name="enablePackage">Włącz</string>
+    <string name="enablePackage">Włącz aplikacje</string>
     <!-- enablePackageTitle: title for a list of checkable users -->
     <string name="enablePackageTitle">Włącz dla użytkowników</string>
-    <string name="disablePackage">Wyłącz</string>
+    <string name="disablePackage">Wyłącz aplikację</string>
     <string name="disablePackageTitle">Wyłącz dla użytkowników</string>
     <string name="prefs_title">Ustawienia</string>
     <string name="prefs_service">Ustawienia usługi</string>
@@ -106,9 +106,9 @@
     <string name="sched_title">Harmonogram</string>
     <string name="sched_notificationMessage">Planowana kopia zapasowa</string>
     <string name="sched_interval">Przedział czasu w dniach:</string>
-    <string name="sched_hourOfDay">Godzina dnia:</string>
+    <string name="sched_hourOfDay">Pora dnia:</string>
     <string name="sched_checkbox">Włącz</string>
-    <string name="sched_activateButton">Rozpocznij teraz tworzenie kopii zapasowej</string>
+    <string name="sched_activateButton">Rozpocznij tworzenie kopii zapasowej</string>
     <string name="sched_startingbackup">Uruchamianie zaplanowanej kopii zapasowej…</string>
     <string name="sched_mode">Tryb tworzenia kopii zapasowych:</string>
     <string name="sched_timeLeft">Pozostały czas:</string>
@@ -179,7 +179,7 @@
 \n • Kopie zapasowe można planować bez ograniczenia liczby indywidualnych harmonogramów — istnieje także możliwość tworzenia list niestandardowych.</string>
     <string name="intro_permission_batteryoptimization">Aplikacja może mieć problemy z wykonywaniem zaplanowanych kopii zapasowych na niektórych ROM-ach, które używają agresywnej optymalizacji baterii np. MIUI, ale nawet na AOSP taki problem może się zdarzyć.</string>
     <string name="intro_permission_usageaccess">Aplikacja potrzebuje tego uprawnienia, aby móc sprawdzić statystyki i rozmiary danych i pamięci podręcznej aplikacji.</string>
-    <string name="intro_permission_storage">"Aplikacja korzysta z uprawnień do odczytu/zapisu pamięci masowej, aby uzyskać dostęp do zewnętrznej pamięci masowej  i zapewnić możliwość tworzenia kopii zapasowych danych zewnętrznych / obb innych aplikacji."</string>
+    <string name="intro_permission_storage">Aplikacja korzysta z uprawnień do odczytu/zapisu pamięci masowej, aby uzyskać dostęp do zewnętrznej pamięci masowej i zapewnić możliwość tworzenia kopii zapasowych danych zewnętrznych/obb innych aplikacji.</string>
     <string name="welcome_to_oabx">Witamy w OABX!</string>
     <string name="storage_access">Dostęp do pamięci</string>
     <string name="sort_and_filter">Sortowanie i filtrowanie</string>
@@ -198,7 +198,7 @@
     <string name="intro_permission_storage_location">Aplikacja potrzebuje miejsca do przechowywania kopii zapasowej. Może potrzebować kilku gigabajtów pamięci na wykonanie pełnej kopii zapasowej i często wykonuje odczyt, i zapis. Należy o tym pamiętać przy wyborze do tego lokalizacji sieciowej.</string>
     <string name="prefs_unset">Wymaż</string>
     <string name="prefs_housekeepingmoment_summary">Konfiguruje, czy najstarsza wersja zostanie usunięta przed czy po utworzeniu nowej kopii zapasowej, aby zwolnić miejsce na dysku używane przez kopię zapasową.</string>
-    <string name="prefs_housekeepingmoment">Czas czyszczenia dodatkowych wersji</string>
+    <string name="prefs_housekeepingmoment">Czas czyszczenia wersji</string>
     <string name="prefs_numBackupRevisions_summary">Najstarsza wersja zostanie usunięta po utworzeniu nowej kopii zapasowej, jeśli liczba zostanie przekroczona. Ustaw na zero, aby zachować wszystkie wersje.</string>
     <string name="prefs_numBackupRevisions">Liczba wersji kopii zapasowych</string>
     <string name="prefs_stopcont">Wymuś zatrzymanie aplikacji przed tworzeniem/przywracaniem kopii zapasowych</string>
@@ -221,7 +221,7 @@
     <string name="prefs_disableverification_summary">Wyłącza tę opcję podczas przywracania plików APK, a następnie włącza ją ponownie. Rozwiązuje błąd: INSTALL_FAILED_VERIFICATION_FAILURE.</string>
     <string name="prefs_disableverification">Wyłącz weryfikację aplikacji przez USB</string>
     <string name="prefs_obbdata_summary">Kopiuje i przywraca dane OBB z pamięci zewnętrznej (np. /storage/emulated/0/Android/obb/)</string>
-    <string name="prefs_obbdata">Twórz kopie zapasowe plików obb</string>
+    <string name="prefs_obbdata">Utwórz kopię zapasową plików obb</string>
     <string name="stats_apps">Aplikacje</string>
     <string name="stats_backups">Kopie Zapasowe</string>
     <string name="stats_updated">Zaktualizowane</string>
@@ -248,9 +248,37 @@
     <string name="app_info">Informacje o aplikacji</string>
     <string name="prefs_saveappslist_summary">Zapisuje listę aplikacji do pliku txt w katalogu kopii zapasowej</string>
     <string name="prefs_saveappslist">Zapisz listę aplikacji</string>
-    <string name="prefs_devicelock_summary">Zabezpiecz aplikację za pomocą blokady ekranu urządzenia</string>
-    <string name="prefs_devicelock">Blokada ekranu</string>
+    <string name="prefs_devicelock_summary">Zabezpiecz aplikację danymi uwierzytelniającymi urządzenia</string>
+    <string name="prefs_devicelock">Blokada urządzenia</string>
     <string name="usage_notes_title">Wskazówki dotyczące użytkowania</string>
     <string name="main">Główna</string>
     <string name="prefs_enablespecial_summary">Nadal wymaga intensywnych testów, istnieje niebezpieczeństwo, że może to spowodować bootloops. Opinie są zawsze mile widziane.</string>
+    <plurals name="sched_interval_formal">
+        <item quantity="one">jeden dzień</item>
+        <item quantity="few">%d dni</item>
+        <item quantity="many">%d dni</item>
+        <item quantity="other">%d dni</item>
+    </plurals>
+    <string name="intro_permission_storage_location_warning">Nie wybieraj głównego katalogu pamięci ani folderu Pobrane, utwórz folder tylko na kopie zapasowe. Więcej na ten temat w FAQ</string>
+    <string name="global_blocklist_add">Dodaj do globalnej listy bloków</string>
+    <string name="forceKill">Wymuś zamknięcie</string>
+    <string name="sortAscDesc">Rosnąco-Malejąco</string>
+    <string name="logs_share_failed">Nie znaleziono pliku Log (dziennika)</string>
+    <string name="sched_imported">Zaimportowano pomyślnie harmonogram</string>
+    <string name="sched_exported">Harmonogramy zostały pomyślnie wyeksportowane</string>
+    <string name="error_datachanged">Dane aplikacji zostały aktywnie zmienione podczas tworzenia kopii zapasowej. Spróbuj wyłączyć ten proces przed wykonaniem kopii zapasowej</string>
+    <string name="dialog_import">Importuj</string>
+    <string name="dialog_export">Eksportuj</string>
+    <string name="schedule_failed">Harmonogram nie powiódł się</string>
+    <string name="no_file_manager_message">Brak menedżera plików do zarządzania SAF. Może wyłączyłeś wbudowany menedżer plików. Przywróć go lub włącz ponownie.</string>
+    <string name="no_file_manager_title">Brak menedżera SAF</string>
+    <string name="prefs_schedulesexportimport_summary">Eksportuj lub importuj listę utworzonych harmonogramów.</string>
+    <string name="prefs_schedulesexportimport">Eksportuj/Importuj harmonogramy</string>
+    <string name="write_apps_list_all">Zapisano plik listy wszystkich aplikacji</string>
+    <string name="write_apps_list_filtered">Zapisano plik listy filtrowanych aplikacji</string>
+    <string name="filtered_list">Lista filtrowana</string>
+    <string name="wait_noappslist">Lista aplikacji jeszcze nie jest pobierana. Czekaj…</string>
+    <string name="help_group_matrix">Nasza grupa na Matrix</string>
+    <string name="help_group_telegram">Nasza grupa na Telegramie</string>
+    <string name="radio_deviceprotecteddata">Chronione dane urządzenia</string>
 </resources>
