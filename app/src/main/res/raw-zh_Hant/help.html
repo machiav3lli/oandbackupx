@@ -1,10 +1,10 @@
 <html>
     <body>
-        <p><strong>Backup modes</strong>: An app can be backed up with only its apk, only its data or both. An app not currently installed can only be restored if the apk is present. Three special types of data is supported extra to the main data: device protected data, external data and obb data.
+        <p><strong>備份模式</strong>：應用程式可以只備份 apk、只備份資料或兩者都備份。目前未安裝的應用程式只有在 apk 存在時才能還原。
         </p>
-        <p><strong>Delete backup</strong>: Deletes the backup files for a specific backup instance. While "delete backups" delete all of the backups of the chosen app.
+        <p><strong>刪除備份</strong>刪除選取的應用程式的備份檔案。
         </p>
-        <p><strong>Uninstall</strong>: Somewhat more aggressive than a normal uninstall. In addition to doing a normal uninstall via Android commands, uninstalling from OAndBackupX deletes files the app might have left over in /data/app-lib/.
+        <p><strong>啟用 / 停用</strong>：使用 Android 腳本 `pm` 啟用或停用應用程式。停用應用程式會將其從正常使用者界面中移除而沒有解除安裝。這也可以用於一次為多個使用者啟用或停用應用程式（如果裝置已啟用多個使用者）。被標識為 id. 0 的使用者是第一個使用者（所有者）。
         </p>
         <p><strong>Enable / disable</strong>: Uses the Android `pm` script to enable or disable an app. Disabling an app removes it from the normal user interface without uninstalling it. This can be used for enabling or disabling an app for multiple users at a time (if the device has multiple users). Users are identified with an ID e.g. 0 is the first user (owner) 10 is usually the work profile.
         </p>
