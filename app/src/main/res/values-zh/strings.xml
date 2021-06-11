@@ -273,4 +273,5 @@
     <string name="intro_permission_storage_location_warning">不要选择主存储目录或“下载”文件夹，为你的备份创建一个文件夹。 这篇常见问题解答中有更多内容</string>
     <string name="global_blocklist_add">添加到全局拦截列表</string>
     <string name="forceKill">强制杀死</string>
+    <string name="update_all">更新全部</string>
 </resources>
