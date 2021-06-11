@@ -128,4 +128,9 @@
     <string name="showOldBackups">顯示舊的備份</string>
     <string name="batchbackup">批次備份</string>
     <string name="dialogNo">否</string>
+    <string name="prefs_numBackupRevisions_summary">如果在建立新備份時超過這個數量，會刪除最舊的版本。</string>
+    <string name="prefs_deviceprotecteddata_summary">備份與還原放置於 data/user_de 的資料</string>
+    <string name="prefs_deviceprotecteddata">備份受裝置保護的資料</string>
+    <string name="prefs_obbdata_summary">備份與還原放置於外部儲存空間的應用程式 obb 檔案（例如 /storage/emulated/0/Android/obb/）</string>
+    <string name="prefs_externaldata_summary">備份與還原放置於外部儲存空間的資料（例如 /storage/emulated/0/Android/data/）</string>
 </resources>
