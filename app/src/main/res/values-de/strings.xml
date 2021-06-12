@@ -278,4 +278,5 @@
     <string name="no_file_manager_title">Kein SAF Dateimanager</string>
     <string name="prefs_schedulesexportimport_summary">Export oder import einer Liste der zeitgesteuerten Backups, die du angelegt hast.</string>
     <string name="prefs_schedulesexportimport">Export/Import zeitgesteuerter Backups</string>
+    <string name="update_all">Alle aktualisieren</string>
 </resources>
