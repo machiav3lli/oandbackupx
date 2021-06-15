@@ -1,20 +1,20 @@
 <html>
     <body>
-        <p><strong>Backup modes</strong>: An app can be backed up with only its apk, only its data or both. An app not currently installed can only be restored if the apk is present. Three special types of data is supported extra to the main data: device protected data, external data and obb data.
+        <p><strong>Modos de Backup</strong>: Um app pode ser copiado apenas com seu APK, apenas com seus dados ou ambos. Um app não instalado atualmente só pode ser restaurado se o APK estiver presente. Três tipos especiais de dados são suportados além dos dados principais: dados protegidos do dispositovo, dados externos e dados OBB.
         </p>
-        <p><strong>Delete backup</strong>: Deletes the backup files for a specific backup instance. While "delete backups" delete all of the backups of the chosen app.
+        <p><strong>Excluir backup</strong>: Apaga os arquivos de backup para uma instância de backup específica. Enquanto "excluir backups" apaga todos os backups do app escolhido.
         </p>
-        <p><strong>Uninstall</strong>: Somewhat more aggressive than a normal uninstall. In addition to doing a normal uninstall via Android commands, uninstalling from OAndBackupX deletes files the app might have left over in /data/app-lib/.
+        <p><strong>Desinstalar</strong>: Um pouco mais agressivo que uma desinstalação normal. Além de fazer uma desinstalação via comandos Android, desinstalar do OAndBackupX exclui arquivos que o app pode ter deixado em /data/app-lib/.
         </p>
-        <p><strong>Enable / disable</strong>: Uses the Android `pm` script to enable or disable an app. Disabling an app removes it from the normal user interface without uninstalling it. This can be used for enabling or disabling an app for multiple users at a time (if the device has multiple users). Users are identified with an ID e.g. 0 is the first user (owner) 10 is usually the work profile.
+        <p><strong>Ativar / Desativar</strong>: Usa o script `pm` do Android para ativar ou desativar um app. Desativiar um app remove-o da interface normal do usuário sem desinstalá-lo. Isto pode ser usado para ativar ou desativar um app para vários usuários ao mesmo tempo (se o dispositivo tiver vários usuários). Os usuários são identificados com um ID, por exemplo, 0 é o primeiro usuário (proprietário), 10 é normalmente o perfil de trabalho.
         </p>
-        <p><strong>Multiple users</strong>: Multi-user is still somewhat experimental but should work. Enabling and disabling only works after an initial install (not necessarily from OAndBackupx) or restore of the app.
+        <p><strong>Múltiplos usuários</strong>: Multiusuário ainda é um pouco experimental, mas deve funcionar. Ativar e desativar só funciona após uma instalação inicial (não necessariamente do OAndBackupX) ou restauração do app.
         </p>
-        <p><strong>System-less apps</strong>: Backup and restore of system-less apps installed as Magisk modules is not supported and trying it could lead to system failure and forcing you to format and flash it anew.
+        <p><strong>Apps Sem Sistema</strong>: Fazer backup e restaurar apps sem sistema instalados como módulos Magisk não é suportados e tentar isso pode levar à falha do sistema e forçá-lo a formatar e atualizar novamente.
         </p>
-        <p><strong>Navigation</strong>: The navigation bar has "Settings", "Home", "Batch backup", "Batch restore" and "Schedule backups" (in that order). The number of apps upgraded after their last backup will be presented as a notification on "Home" button.
+        <p><strong>Navegação</strong>: A barra de navegação possui "Configurações", "Início", "Backup em lote", "Restauração em lote" e "Agendar backups" (nessa ordem). O número de apps atualizados após seu último backup será apresentado como uma notificação no botão "Início".
         </p>
-        <p><strong>Apps using Keystore</strong>: Android has an encrypted storage for sensitive data. Apps that make use of this to store login data or some keys for its function can't be restored successfully. Two examples of such apps are Signal and Element(Riot).
+        <p><strong>Apps usando Keystore</strong>: O Android tem um armazenamento criptografado para dados confidenciais. Os aplicativos que usam isso para armazenar dados de login ou algumas chaves para sua função não podem ser restaurados com sucesso. Dois exemplos de tais aplicativos são Signal e Element (Riot).
         </p>
     </body>
 </html>
