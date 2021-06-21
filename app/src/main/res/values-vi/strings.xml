@@ -268,4 +268,5 @@
     <string name="backupConfirmation">Sao lưu\?</string>
     <string name="restore">Khôi phục</string>
     <string name="backup">Sao lưu</string>
+    <string name="update_all">Cập nhật tất cả</string>
 </resources>
