@@ -276,4 +276,5 @@
     <string name="prefs_enablespecial_summary">Hala yoğun testlere ihtiyacı var, önyükleme döngülerine neden olabileceği tehlikesini göz önünde bulundurun. Geri bildirime her zaman açığız.</string>
     <string name="prefs_devicelock_summary">Uygulamayı aygıt kimlik bilgileriyle güvenli hale getirin</string>
     <string name="prefs_devicelock">Aygıt kilidi</string>
+    <string name="update_all">Tümünü güncelle</string>
 </resources>
