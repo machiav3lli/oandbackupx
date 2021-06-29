@@ -284,4 +284,22 @@
     <string name="forceKill">قتل بالقوة</string>
     <string name="intro_permission_storage_location_warning">لا تختار دليل التخزين الرئيسي أو مجلد التنزيلات، قم بإنشاء مجلد للنسخ الاحتياطية فقط. للمزيد حول هذا الموضوع في قسم الأسئلة الشائعة</string>
     <string name="update_all">تحديث الكل</string>
+    <string name="prefs_secondary_color">اللون الثانوي</string>
+    <string name="prefs_accent_color">لون اللكنة</string>
+    <string name="prefs_secondary_7">الأزرق السماوي</string>
+    <string name="prefs_secondary_6">أردواز</string>
+    <string name="prefs_secondary_5">فلامنغو الوردي</string>
+    <string name="prefs_secondary_4">لافا أورانج</string>
+    <string name="prefs_secondary_3">النمر العنبر</string>
+    <string name="prefs_secondary_2">ليميت</string>
+    <string name="prefs_secondary_1">المحيط تيل</string>
+    <string name="prefs_secondary_0">سماوي القطب الشمالي</string>
+    <string name="prefs_accent_7">البرتقال المشمش</string>
+    <string name="prefs_accent_6">الرعد الأصفر</string>
+    <string name="prefs_accent_5">شارتويز لايم</string>
+    <string name="prefs_accent_4">أخضر غامق</string>
+    <string name="prefs_accent_3">فيروزي</string>
+    <string name="prefs_accent_2">الهدوء النيلي</string>
+    <string name="prefs_accent_1">الأرجواني الكامن</string>
+    <string name="prefs_accent_0">المذنب الأحمر</string>
 </resources>
