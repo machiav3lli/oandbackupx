@@ -284,4 +284,5 @@
     <string name="global_blocklist_add">Добавить в глобальный список блокировок</string>
     <string name="sortAscDesc">По возрастанию, по убыванию</string>
     <string name="update_all">Обновить всё</string>
+    <string name="prefs_accent_color">Акцент</string>
 </resources>
