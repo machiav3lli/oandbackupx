@@ -2,11 +2,11 @@
     <body>
         <p><strong>Режимы резервного копирования</strong>: Приложение может создать резервную копию только с APK, только данными или с тем и другим. Не установленное в настоящий момент приложение может быть восстановлено, только если существует копия APK.
         </p>
-        <p><strong>Delete backup</strong>: Deletes the backup files for the chosen app.
+        <p><strong>Удалить р.к.</strong>: Удаляет файлы определенного экземпляра резервной копии. В то время как «Удалить все резервные копии» удаляет все резервные копии выбранного приложения.
         </p>
-        <p><strong>Uninstall</strong>: Somewhat more aggressive than a normal uninstall. In addition to doing a normal uninstall via android commands, uninstalling from OAndBackupX deletes files the app might have left over in /data/app-lib/.
+        <p><strong>Удаление приложения</strong>: Нечто более агрессивное, чем обычно. В дополнение к обычному действию через команды Андроид, удаление через OAndBackupX также удаляет файлы, которые приложение могло бы оставить в /data/app-lib/.
         </p>
-        <p><strong>Enable / disable</strong>: Uses the android script `pm` to enable or disable an app. Disabling an app removes it from the normal user interface without uninstalling. This can be used for enabling or disabling an app for muliple users at a time (if the device has multiple users enabled). Users are identified with an id. 0 is the first user (owner).
+        <p><strong>Включить / отключить</strong>: Используется скрипт Андроид `pm` для включения или отключения приложения. Отключение приложения убирает его из пользовательского интерфейса без его удаления. Это может быть использовано для включения или отключения приложения в многопользовательской среде (если устройство имеет несколько пользователей). Пользователи определяются по идентификатору ID. Например 0 – это первый пользователь (владелец), 10 – это обычно рабочий профиль.
         </p>
         <p><strong>Многопользовательская среда</strong>: Использование приложения в многопользовательской среде всё ещё является экспериментальным, но должно работать. Включение и отключение работает только после первоначальной установки (не обязательно из OAndBackupX) или восстановления приложения.
         </p>
