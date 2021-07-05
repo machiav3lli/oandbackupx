@@ -292,4 +292,5 @@
     <string name="prefs_accent_2">平静靛蓝</string>
     <string name="prefs_accent_1">紫色</string>
     <string name="prefs_accent_0">红慧星</string>
+    <string name="error_encryptionpassword">加密密码要么没有设置要么错误！</string>
 </resources>
