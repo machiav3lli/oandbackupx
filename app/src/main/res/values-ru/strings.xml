@@ -285,4 +285,22 @@
     <string name="sortAscDesc">По возрастанию, по убыванию</string>
     <string name="update_all">Обновить всё</string>
     <string name="prefs_accent_color">Акцент</string>
+    <string name="error_encryptionpassword">Пароль шифрования либо не установлен, либо неверен!</string>
+    <string name="prefs_secondary_color">Второстепенный цвет</string>
+    <string name="prefs_secondary_7">Голубая лазурь</string>
+    <string name="prefs_secondary_6">Серый шифер</string>
+    <string name="prefs_secondary_5">Розовый фламинго</string>
+    <string name="prefs_secondary_4">Лавовый оранжевый</string>
+    <string name="prefs_secondary_3">Тигровый янтарь</string>
+    <string name="prefs_secondary_2">Лиметт</string>
+    <string name="prefs_secondary_1">Морская бирюза</string>
+    <string name="prefs_secondary_0">Арктический циан</string>
+    <string name="prefs_accent_7">Абрикосовый оранжевый</string>
+    <string name="prefs_accent_6">Жёлтый гром</string>
+    <string name="prefs_accent_5">Шартрезовый лайм</string>
+    <string name="prefs_accent_4">Насыщенный зелёный</string>
+    <string name="prefs_accent_3">Бирюзовый</string>
+    <string name="prefs_accent_2">Спокойный индиго</string>
+    <string name="prefs_accent_1">Утончённый фиолетовый</string>
+    <string name="prefs_accent_0">Красная комета</string>
 </resources>
