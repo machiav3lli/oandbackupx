@@ -287,4 +287,5 @@
     <string name="prefs_accent_2">Chàm tĩnh lặng</string>
     <string name="prefs_accent_1">Tím đẹp</string>
     <string name="prefs_accent_0">Sao chổi đỏ</string>
+    <string name="error_encryptionpassword">Mật khẩu mã hoá không được đặt hoặc bị sai!</string>
 </resources>
