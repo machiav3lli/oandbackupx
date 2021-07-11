@@ -256,8 +256,8 @@
     <plurals name="sched_interval_formal">
         <item quantity="one">щодня</item>
         <item quantity="few">кожні %d днів</item>
-        <item quantity="many"></item>
-        <item quantity="other"></item>
+        <item quantity="many">кожні %d днів</item>
+        <item quantity="other">кожні %d днів</item>
     </plurals>
     <string name="prefs_oldbackups">Відфільтруйте резервні копії за періодом</string>
     <string name="intro_permission_storage_location_warning">Не вибирайте основний каталог сховища або теку Завантаження, створіть теку лише для резервних копій. Детальніше про це у FAQ</string>
@@ -265,4 +265,17 @@
     <string name="sortAscDesc">Зростаючий-Зменшувальний</string>
     <string name="logs_share_failed">Файл журналу не знайдено</string>
     <string name="sched_imported">Розклад успішно імпортовано</string>
+    <plurals name="updated_apps">
+        <item quantity="one">%d оновлений додаток</item>
+        <item quantity="few">%d оновлених додатків</item>
+        <item quantity="many">%d оновлених додатків</item>
+        <item quantity="other">%d оновлених додатків</item>
+    </plurals>
+    <plurals name="days_left">
+        <item quantity="one">%d день,</item>
+        <item quantity="few">%d днів,</item>
+        <item quantity="many">%d днів,</item>
+        <item quantity="other">%d днів,</item>
+    </plurals>
+    <string name="update_all">Оновити все</string>
 </resources>

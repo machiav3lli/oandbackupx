@@ -68,20 +68,20 @@
     <!--tools_backupsDeleted: shown in a notification followed by the number of backups deleted-->
     <string name="batchDeleteBackupsDeleted">Backups eliminados:</string>
     <string name="batchDeleteNothingToDelete">Não há backups para eliminar</string>
-    <string name="enablePackage">Ativar</string>
+    <string name="enablePackage">Ativar aplicativo</string>
     <!--enablePackageTitle: title for a list of checkable users-->
-    <string name="enablePackageTitle">Ativar para utilizadores</string>
-    <string name="disablePackage">Desativar</string>
-    <string name="disablePackageTitle">Desativar para utilizadores</string>
+    <string name="enablePackageTitle">Ativar aplicativo para usuários</string>
+    <string name="disablePackage">Desativar aplicativo</string>
+    <string name="disablePackageTitle">Desativar app para usuários</string>
     <string name="prefs_title">Preferências</string>
     <string name="prefs_acquirewakelock">Impedir suspensão</string>
-    <string name="prefs_acquirewakelock_summary">Obter \'WakeLock\' durante as operações em lote para impedir a suspensão. Melhora o desempenho mas consome mais energia.</string>
+    <string name="prefs_acquirewakelock_summary">Obter wakelock durante operações em lote para impedir a suspensão. Acelera o backup e restauração consideravelmente, mas consome mais energia.</string>
     <string name="prefs_pathbackupfolder">Pasta de backup</string>
     <string name="prefs_oldbackups">Filtrar backups por idade</string>
     <!--prefs_summaryOldBackups: the quoted filter title is @string/showOldBackups-->
     <string name="prefs_oldbackups_summary">Filtrar backups mais antigos do que o valor em dias. Usado com o filtro \'Mostrar backups antigos\'.</string>
     <string name="prefs_copyselfapk">Copiar o próprio APK</string>
-    <string name="prefs_copyselfapk_summary">Colocar uma cópia do OAndBackupX no nível superior da pasta de backup quando backup</string>
+    <string name="prefs_copyselfapk_summary">Colocar uma cópia do OAndBackupX no nível superior da pasta de backup</string>
     <string name="prefs_languages">Idioma</string>
     <string name="prefs_language_system">Idioma de sistema</string>
     <string name="prefs_rememberfiltering">Memorizar ordem e filtro</string>
@@ -92,7 +92,7 @@
     <string name="sched_interval">Intervalo em dias:</string>
     <string name="sched_hourOfDay">Hora do dia:</string>
     <string name="sched_checkbox">Ativar</string>
-    <string name="sched_activateButton">Iniciar backup agora</string>
+    <string name="sched_activateButton">Iniciar agora</string>
     <string name="sched_startingbackup">A iniciar backup agendado…</string>
     <string name="sched_mode">Modo de backup:</string>
     <string name="sched_timeLeft">Tempo restante:</string>
@@ -133,8 +133,8 @@
     <string name="permission_not_granted">Requer permissão para aceder ao armazenamento externo</string>
     <string name="dialogSave">Gravar</string>
     <string name="dialog_refuse">Não</string>
-    <string name="dialog_approve">Sim</string>
-    <string name="dialog_start">Vamos</string>
+    <string name="dialog_approve">Sim!</string>
+    <string name="dialog_start">Vamos!</string>
     <string name="dialog_unlock">Desbloquear</string>
     <string name="filter_options">Filtros:</string>
     <string name="sort_options">Ordenar por:</string>
@@ -182,7 +182,7 @@
     <string name="prefs_externaldata">Fazer backup de dados externos</string>
     <string name="prefs_deviceprotecteddata">Fazer backup de dados protegidos do aparelho</string>
     <string name="restart_dialog">Parece que necessita reiniciar a aplicação</string>
-    <string name="empty_filtered_list">A lista de filtros está vazia, sendo assim os filtros estão de volta a predefinição</string>
+    <string name="empty_filtered_list">A lista de filtros está vazia.</string>
     <string name="intro_welcome_message">O OAndBackupX é uma bifurcação do reconhecido OAndBackup com o objetivo de levá-lo até 2020 e mais. Por enquanto, a maior parte da funcionalidade e da interface da aplicação são reescritas e algumas são adicionadas.
 \n A aplicação ainda se encontra em fase beta e muitas vezes estão a ser feitas as melhorias. Leia atentamente o registo de alterações a cada novo lançamento.
 \n Todos os tipos de contribuição são bem-vindos, seja tradução, ideias, relato de bugs ou contribuição ao código.
@@ -210,7 +210,7 @@
     <string name="radio_obbdata">Dados OBB</string>
     <string name="radio_deviceprotecteddata">Dados protegidos no aparelho</string>
     <string name="radio_externaldata">Dados externos</string>
-    <string name="fetching_action_list">A obter aplicações para backup…</string>
+    <string name="fetching_action_list">Obtendo lista de apps para %1$s…</string>
     <string name="logs_text_empty">Não há nada a mostrar!</string>
     <string name="delete_all_backups">Eliminar todos os backups</string>
     <string name="prefs_disableverification_summary">Desativa esta opção de programador enquanto restaura APKs e a reativa depois. Resolve o erro: INSTALL_FAILED_VERIFICATION_FAILURE.</string>
@@ -220,9 +220,9 @@
         <item quantity="other">%d dias,</item>
     </plurals>
     <string name="stats_apps">Aplicações</string>
-    <string name="stats_backups">Backups</string>
+    <string name="stats_backups">Meus Backups</string>
     <string name="stats_updated">Atualizado</string>
-    <string name="radio_launchable">Aplicativos lançáveis</string>
+    <string name="radio_launchable">Aplicativos iniciáveis</string>
     <string name="help_issues">Problemas conhecidos</string>
     <string name="prefs_obbdata_summary">Faz backup e restauro de ficheiros obb da aplicação que são colocados no armazenamento externo (Ex: /storage/emulated/0/Android/obb/)</string>
     <string name="prefs_obbdata">Backup de ficheiros obb</string>
@@ -231,4 +231,51 @@
     <string name="prefs_restoreallpermissions">Restaurar com todas as permissões</string>
     <string name="prefs_restoreallpermissions_summary">Conceder à aplicação restaurada todas as permissões solicitadas.</string>
     <string name="help_faq">Perguntas frequentes</string>
+    <plurals name="updated_apps">
+        <item quantity="one">%d aplicativo atualizado</item>
+        <item quantity="other">%d aplicativos atualizados</item>
+    </plurals>
+    <plurals name="sched_interval_formal">
+        <item quantity="one">cada dia</item>
+        <item quantity="other">cada %d dias</item>
+    </plurals>
+    <string name="update_all">Atualizar tudo</string>
+    <string name="intro_permission_storage_location_warning">Não escolha o diretório principal de armazenamento ou a pasta de Downloads, crie uma pasta apenas para seus backups. Mais sobre isso no FAQ</string>
+    <string name="global_blocklist_add">Adicionar a lista de bloqueio global</string>
+    <string name="forceKill">Forçar parada</string>
+    <string name="sortAscDesc">Crescente-Descrescente</string>
+    <string name="logs_share_failed">Arquivo de registro não encontrado</string>
+    <string name="sched_imported">Tarefas importadas com sucesso</string>
+    <string name="sched_exported">As tarefas foram exportadas com sucesso</string>
+    <string name="error_datachanged">Os dados do aplicativo foram alterados ativamente durante o backup. Tente matar seu processo antes de fazer o backup</string>
+    <string name="dialog_import">Importar</string>
+    <string name="dialog_export">Exportar</string>
+    <string name="schedule_failed">A execução da tarefa falhou</string>
+    <string name="shell_initproblem">Não foi possível iniciar o manipulador do shell. Não há toybox/busybox ou a permissão de root deste app está desabilitada.</string>
+    <string name="no_file_manager_message">Não há gerenciador de arquivos para gerenciar SAF. Talvez você tenha desativado o gerenciador de arquivos embutido. Restaure ou reative-o.</string>
+    <string name="no_file_manager_title">Nenhum gerenciador SAF</string>
+    <string name="prefs_schedulesexportimport_summary">Exporte ou importe a lista de tarefas que você criou.</string>
+    <string name="prefs_schedulesexportimport">Exportar/importar tarefas</string>
+    <string name="write_apps_list_all">Escrever arquivo de todos os apps da lista</string>
+    <string name="write_apps_list_filtered">Arquivo da lista de apps filtrados escrito</string>
+    <string name="filtered_list">Lista filtrada</string>
+    <string name="wait_noappslist">A lista de aplicativos ainda não foi buscada. Aguarde…</string>
+    <string name="copyOwnApkSuccess">APK do aplicativo copiado para o diretório de backup</string>
+    <string name="forceKillMessage">Tem certeza que quer forçar a parada deste app\?</string>
+    <string name="app_info">Informação do App</string>
+    <string name="launch_app">Iniciar app</string>
+    <string name="exodus_report">Relatório Exodus</string>
+    <string name="clear_cache">Limpar cache</string>
+    <string name="usage_notes_title">Notas de Uso</string>
+    <string name="main">Principal</string>
+    <string name="help">Ajuda</string>
+    <string name="help_group_matrix">Nosso Grupo na Matrix</string>
+    <string name="help_group_telegram">Nosso Grupo no Telegram</string>
+    <string name="sched_name">Nome:</string>
+    <string name="prefs_saveappslist_summary">Salvar lista de aplicativos em um arquivo txt no diretório de backup do usuário</string>
+    <string name="prefs_saveappslist">Salvar lista de aplicativos</string>
+    <string name="prefs_devicelock">Bloqueio do dispositivo</string>
+    <string name="copyOwnApkFailed">Falha ao copiar o APK do app para o diretório de backup</string>
+    <string name="prefs_enablespecial_summary">Ainda precisa de testes intensivos, isso é perigoso e pode causar loops de inicialização. O feedback é sempre bem-vindo.</string>
+    <string name="prefs_devicelock_summary">Proteja o aplicativo com as credenciais do dispositivo</string>
 </resources>

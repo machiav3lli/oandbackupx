@@ -273,4 +273,24 @@
     <string name="intro_permission_storage_location_warning">不要选择主存储目录或“下载”文件夹，为你的备份创建一个文件夹。 这篇常见问题解答中有更多内容</string>
     <string name="global_blocklist_add">添加到全局拦截列表</string>
     <string name="forceKill">强制杀死</string>
+    <string name="update_all">更新全部</string>
+    <string name="prefs_secondary_color">次生色</string>
+    <string name="prefs_accent_color">强调色</string>
+    <string name="prefs_secondary_7">天青蓝</string>
+    <string name="prefs_secondary_6">石板色</string>
+    <string name="prefs_secondary_5">火烈粉</string>
+    <string name="prefs_secondary_4">熔岩橙</string>
+    <string name="prefs_secondary_3">琥珀</string>
+    <string name="prefs_secondary_2">青柠绿</string>
+    <string name="prefs_secondary_1">水鸭色</string>
+    <string name="prefs_secondary_0">北极青</string>
+    <string name="prefs_accent_7">杏橙</string>
+    <string name="prefs_accent_6">闪电黄</string>
+    <string name="prefs_accent_5">黄绿色石灰</string>
+    <string name="prefs_accent_4">深绿</string>
+    <string name="prefs_accent_3">蓝绿</string>
+    <string name="prefs_accent_2">平静靛蓝</string>
+    <string name="prefs_accent_1">紫色</string>
+    <string name="prefs_accent_0">红慧星</string>
+    <string name="error_encryptionpassword">加密密码要么没有设置要么错误！</string>
 </resources>

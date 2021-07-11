@@ -268,4 +268,24 @@
     <string name="backupConfirmation">Sao lưu\?</string>
     <string name="restore">Khôi phục</string>
     <string name="backup">Sao lưu</string>
+    <string name="update_all">Cập nhật tất cả</string>
+    <string name="prefs_accent_3">Ngọc lam</string>
+    <string name="prefs_secondary_color">Màu phụ</string>
+    <string name="prefs_accent_color">Màu nổi bật</string>
+    <string name="prefs_secondary_7">Xanh lam nhạt</string>
+    <string name="prefs_secondary_6">Đá phiến</string>
+    <string name="prefs_secondary_5">Hồng hồng hạc</string>
+    <string name="prefs_secondary_4">Cam dung nham</string>
+    <string name="prefs_secondary_3">Hổ phách</string>
+    <string name="prefs_secondary_2">Xanh chanh</string>
+    <string name="prefs_secondary_1">Mòng két đại dương</string>
+    <string name="prefs_secondary_0">Lục lam bắc cực</string>
+    <string name="prefs_accent_7">Cam mơ</string>
+    <string name="prefs_accent_6">Vàng sấm</string>
+    <string name="prefs_accent_5">Vàng chanh</string>
+    <string name="prefs_accent_4">Xanh lá đậm</string>
+    <string name="prefs_accent_2">Chàm tĩnh lặng</string>
+    <string name="prefs_accent_1">Tím đẹp</string>
+    <string name="prefs_accent_0">Sao chổi đỏ</string>
+    <string name="error_encryptionpassword">Mật khẩu mã hoá không được đặt hoặc bị sai!</string>
 </resources>

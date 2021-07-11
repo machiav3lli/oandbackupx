@@ -275,4 +275,27 @@
     <string name="schedule_failed">L\'exécution du programme a échoué</string>
     <string name="shell_initproblem">Impossible de lancer le gestionnaire de shell. Soit la toybox/busybox est manquante, soit les droits root de l\'application sont désactivés.</string>
     <string name="no_file_manager_title">Pas de gestionnaire SAF</string>
+    <string name="prefs_secondary_color">Couleur secondaire</string>
+    <string name="prefs_accent_color">Couleur accentuée</string>
+    <string name="prefs_secondary_7">Bleu azur</string>
+    <string name="prefs_secondary_6">Gris ardoise</string>
+    <string name="prefs_secondary_5">Rose flamant</string>
+    <string name="prefs_secondary_4">Orange lave</string>
+    <string name="prefs_secondary_3">Cola</string>
+    <string name="prefs_secondary_2">Vert citron</string>
+    <string name="prefs_secondary_1">Bleu océan</string>
+    <string name="prefs_secondary_0">Bleu arctique</string>
+    <string name="prefs_accent_7">Orange abricot</string>
+    <string name="prefs_accent_6">Jaune tonnerre</string>
+    <string name="prefs_accent_5">Vert jaunâtre</string>
+    <string name="prefs_accent_4">Vert pétant</string>
+    <string name="prefs_accent_3">Turquoise</string>
+    <string name="prefs_accent_2">Indigo calme</string>
+    <string name="prefs_accent_1">Violet fin</string>
+    <string name="prefs_accent_0">Comète rouge</string>
+    <string name="update_all">Tout mettre à jour</string>
+    <string name="intro_permission_storage_location_warning">Ne choisissez pas le répertoire de stockage principal ou le dossier Téléchargements, créez un dossier uniquement pour vos sauvegardes. Plus à ce sujet dans la FAQ</string>
+    <string name="forceKill">Forcer l\'arrêt</string>
+    <string name="no_file_manager_message">Il n\'y a pas de gestionnaire de fichiers pour gérer SAF. Vous avez peut-être désactivé le gestionnaire de fichiers intégré. Veuillez le restaurer ou le réactiver.</string>
+    <string name="error_encryptionpassword">Le mot de passe de chiffrement n\'est pas défini ou est incorrect !</string>
 </resources>

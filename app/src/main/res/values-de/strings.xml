@@ -278,4 +278,24 @@
     <string name="no_file_manager_title">Kein SAF Dateimanager</string>
     <string name="prefs_schedulesexportimport_summary">Export oder import einer Liste der zeitgesteuerten Backups, die du angelegt hast.</string>
     <string name="prefs_schedulesexportimport">Export/Import zeitgesteuerter Backups</string>
+    <string name="update_all">Alle aktualisieren</string>
+    <string name="error_encryptionpassword">Das Verschlüsselungspasswort ist entweder nicht gesetzt oder falsch!</string>
+    <string name="prefs_secondary_color">Sekundäre Farbe</string>
+    <string name="prefs_accent_color">Akzentfarbe</string>
+    <string name="prefs_secondary_7">Azurblau</string>
+    <string name="prefs_secondary_6">Schiefer</string>
+    <string name="prefs_secondary_5">Flamingorosa</string>
+    <string name="prefs_secondary_4">Lavaorange</string>
+    <string name="prefs_secondary_3">Tigerbernstein</string>
+    <string name="prefs_secondary_2">Limette</string>
+    <string name="prefs_secondary_1">Ozeanblaugrün</string>
+    <string name="prefs_secondary_0">Arktisches Cyan</string>
+    <string name="prefs_accent_7">Aprikosen-Orange</string>
+    <string name="prefs_accent_6">Donnergelb</string>
+    <string name="prefs_accent_5">Chartreuse-Limette</string>
+    <string name="prefs_accent_4">Fettes Grün</string>
+    <string name="prefs_accent_3">Türkis</string>
+    <string name="prefs_accent_2">Ruhiges Indigo</string>
+    <string name="prefs_accent_1">Feines Violett</string>
+    <string name="prefs_accent_0">Roter Komet</string>
 </resources>

@@ -258,7 +258,7 @@
         <item quantity="one">ogni giorno</item>
         <item quantity="other">ogni %d giorni</item>
     </plurals>
-    <string name="intro_permission_storage_location_warning">Non scegliere la cartella principale o di Download, crea una cartella specifica per i backup. Maggiori info nella FAQ</string>
+    <string name="intro_permission_storage_location_warning">Non scegliere la cartella principale o di Scaricamento, crea una cartella specifica per i backup. Maggiori info nella FAQ</string>
     <string name="global_blocklist_add">Aggiunge alla lista globale dei bloccati</string>
     <string name="forceKill">Forza interruzione</string>
     <string name="sortAscDesc">Ascendente-Discendente</string>
@@ -278,4 +278,24 @@
     <string name="write_apps_list_filtered">Scritto file con elenco delle app filtrate</string>
     <string name="help_group_matrix">Il nostro gruppo su Matrix</string>
     <string name="help_group_telegram">Il nostro gruppo su Telegram</string>
+    <string name="error_encryptionpassword">La password di crittografia non è impostata o è sbagliata!</string>
+    <string name="prefs_secondary_color">Colore secondario</string>
+    <string name="prefs_accent_color">Colore d\'accento</string>
+    <string name="prefs_secondary_7">Azzurro</string>
+    <string name="prefs_secondary_6">Ardesia</string>
+    <string name="prefs_secondary_5">Rosa fenicottero</string>
+    <string name="prefs_secondary_4">Arancio lavico</string>
+    <string name="prefs_secondary_3">Ambra tigre</string>
+    <string name="prefs_secondary_2">Limette</string>
+    <string name="prefs_secondary_1">Verde acqua oceanico</string>
+    <string name="prefs_secondary_0">Ciano artico</string>
+    <string name="prefs_accent_7">Arancia albicocca</string>
+    <string name="prefs_accent_6">Giallo tuono</string>
+    <string name="prefs_accent_5">Lime chartreuse</string>
+    <string name="prefs_accent_4">Verde in grassetto</string>
+    <string name="prefs_accent_3">Turchese</string>
+    <string name="prefs_accent_2">Indaco calmo</string>
+    <string name="prefs_accent_1">Viola fine</string>
+    <string name="prefs_accent_0">Cometa rossa</string>
+    <string name="update_all">Aggiorna tutti</string>
 </resources>
