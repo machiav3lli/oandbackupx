@@ -1,0 +1,2 @@
+**OAndBackupX 1.0.0**
+* Adicionado: opção para limpar o cache antes do backup de dados

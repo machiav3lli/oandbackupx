@@ -1,1 +1,1 @@
-Narzędzie open-source do tworzenia kopii zapasowych aplikacji ... i ich danych
+Narzędzie open-source do tworzenia kopii zapasowych aplikacji... i ich danych

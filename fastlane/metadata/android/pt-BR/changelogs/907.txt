@@ -1,0 +1,4 @@
+**OAndBackupX 0.9.7**
+* Corrigido: lógica de atualização
+* Removido: criptografia PGP e seguir links simbólicos
+* Limpeza do código

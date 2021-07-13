@@ -1,0 +1,2 @@
+* Corrigido: Exibição de mensagem em caso de erro (@hg42)
+* Corrigido: Problema de cotação no processo de backup (@hg42)

@@ -1,0 +1,6 @@
+* Mis à jour : UI/UX réorganisation (en co-op avec@opepp)
+* Ajouté : Outil pour enregistrer la liste des applications dans un fichier
+* Ajouté : Beaucoup trop de fonctionnalités 
+* Fixé : Sauvegarde programmable
+* Traduction mis à jour
+* Parmi des tonnes d'autres améliorations

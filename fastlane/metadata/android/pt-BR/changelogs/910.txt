@@ -1,0 +1,5 @@
+**OAndBackupX 0.9.10**
+* Reescrito: Agendador (precisa ser testado extensivamente)
+* Corrigido: links na ajuda
+* Limpeza do código
+* Ajuste de interface aqui e ali

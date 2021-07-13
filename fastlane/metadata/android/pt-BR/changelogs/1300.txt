@@ -1,0 +1,9 @@
+**OAndBackupX 1.3.0**
+* Atualizado: novo Sistema de Filtro
+* Atualizado: reduzido duração de espera da abertura
+* Adicionado: Suporte Split-APK (precisa de testes, Créditos @Tiefkuehlpizze)
+* Atualizado: Busca suporta Nome do Pacote
+* Corrigido: cache não encontrado/erros de links simbólicos
+* Adicionado: suporte OBB (precisa de testes)
+* Idiomas adicionados: Italiano, Chinês, Turco, Polonês (Créditos @Urnyx05 @tuchit @scrubjay55 @Antyradek)
+* Outros: melhorias de interface e desempenho

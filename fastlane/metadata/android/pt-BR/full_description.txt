@@ -1,0 +1,5 @@
+<p>Faça e restaure backups de seus apps no dispositivo e salve dados dos apps num local acessível ao usuário. Suporta backup e restauração de um ou múltiplos apps.</p>
+<p>Bifurcação do OAndBackup trazendo suporte para novas versões do Android e visual renovado.</p>
+<p><br><b>Ajude a traduzir no Weblate:</b> https://hosted.weblate.org/engage/oandbackupx/.</p>
+<p><br><b>Requer root:</b> Porque copia arquivos de /data/data, /data/app e /system/app.</p>
+<p>Estado: Beta</p>

@@ -1,0 +1,9 @@
+**OAndBackupX 2.0.0**
+* Przełączono na sulib (@Tiefkuehlpizze)
+* Usunięto narzędzia oab na dobre (@Tiefkuehlpizze)
+* Nowe elementy interfejsu użytkownika dla aplikacji, filtrów i arkusza harmonogramu
+* Naprawiono zaplanowane kopie zapasowe danych (sam)
+* Naprawiono zipowanie zewnętrzne/deData/obb zgodnie z Prefs
+* Naprawiono: spakowanie pustych folderów zewnętrznych/deData/obb
+* Zaktualizowano funkcję czyszczenia pamięci podręcznej
+* Niektóre inne ulepszenia interfejsu użytkownika i wydajności

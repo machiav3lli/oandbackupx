@@ -1,0 +1,6 @@
+**OAndBackupX 1.1.0**
+* Adicionado: criptografia no backup de dados
+* Corrigido: agendamentos
+* Atualizado: formato de notificações
+* Ajustados alguns elementos de interface do usuário
+* e melhoria no desempenho

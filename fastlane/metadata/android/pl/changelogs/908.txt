@@ -1,0 +1,6 @@
+**OAndBackupX 0.9.8**
+* Naprawiono: zapamiętaj filtr
+* Naprawiono: wybieranie wartości dla starych kopii zapasowych
+* Naprawiono: pusta przefiltrowana lista powodująca awarię
+* Ulepszono: interfejs harmonogramu
+* Inne poprawki

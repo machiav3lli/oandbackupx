@@ -1,0 +1,6 @@
+**OAndBackupX 1.1.0**
+* Dodano: szyfrowanie kopii zapasowej danych
+* Naprawiono: harmonogramy
+* Zaktualizowano: format powiadomień
+* Poprawiono niektóre elementy interfejsu użytkownika
+* i poprawiona wydajność

@@ -1,0 +1,4 @@
+**OAndBackupX 1.2.0**
+* Atualizado: UI
+* Corrigido: problemas de compartilhamento
+* Adicionado: opções para fazer backup de Dados Protegidos pelo Dispositivo e Dados Externos

@@ -1,0 +1,7 @@
+**OAndBackupX 0.9.11**
+* Dodano: wyczyść pamięć podręczną przed utworzeniem kopii zapasowej
+* Zaktualizowano: stylizację żetonów
+* Dodano: monit o wykluczenie optymalizacji baterii
+* Naprawiono: błąd profili (wymaga testów)
+* Przełączono: z FilePicker na SAF
+* Poprawiono kod

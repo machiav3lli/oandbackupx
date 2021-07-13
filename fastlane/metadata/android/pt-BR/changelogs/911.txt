@@ -1,0 +1,7 @@
+**OAndBackupX 0.9.11**
+* Adicionado: limpe o cache antes do backup
+* Atualizado: estilo dos chips
+* Adicionado: pergunta para ignorar a otimização de bateria
+* Corrigido: o bug de perfis (precisa ser testado)
+* Migrado: de FilePicker para SAF
+* Código ajustado

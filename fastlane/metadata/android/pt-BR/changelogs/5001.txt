@@ -1,0 +1,6 @@
+* Atualizado: Melhoria na função de comandos do shell (hg42)
+* Corrigido: contexto SELinux correto (@jakeler & @hg42)
+* Corrigido: falha no backup de arquivos com nomes com espaços duplos (@jakeler)
+* Corrigido: lançar exceção em sockets e outros arquivos especiais (@hg42)
+* Corrigido: falha no backup de arquivos com nomes com espaços duplos (@jakeler)
+* Traduções atualizadas: Polonês, Português, Chinês, Grego, Alemão, Francês, Norueguês, Holandês, Espanhol, Italiano, Indonésio, Japonês, Russo

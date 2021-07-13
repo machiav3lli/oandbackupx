@@ -1,0 +1,9 @@
+WYMAGANE CZYSTE DANE
+* Dodano: Eksport/import harmonogramów
+* Dodano: Obsługa sortowania rosnąco/malejąco
+* Zaktualizowano: Globalna lista blokowania dotyczy Main
+* Zaktualizowano: Użyj pól wyboru trybów w oknach dialogowych tworzenia kopii zapasowych / przywracania / harmonogramu
+* Naprawiono: Harmonogramy nie uruchamiają się na czas
+* Naprawiono: Opóźnione powiadomienia o niektórych przywróconych aplikacjach
+* Dodano kataloński
+* Mnóstwo innych ulepszeń/poprawek

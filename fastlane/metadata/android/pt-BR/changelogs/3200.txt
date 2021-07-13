@@ -1,0 +1,11 @@
+**OAndBackupX 3.2.0**
+
+* Adicionado: nova Navegação
+* Adicionado: emblema para aplicativos atualizados no Principal
+* Corrigido: salvar itens marcados em Lote
+* Corrigido: sincronização de marcar todos em Lote
+* Corrigido: comportamento inesperado de filtragem de pesquisa (causado por cache)
+* Corrigido: comportamento de retomada
+* Atualizado: melhore o desempenho de atualização
+* Atualizado: melhora no desempenho visual (Instâncias de ação e velocidade de inicialização do Tabelas)
+* Atualizado: Traduções (Norueguês, Holandês, Turco, Chinês, Português)

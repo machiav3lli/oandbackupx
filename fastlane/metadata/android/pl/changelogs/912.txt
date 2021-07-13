@@ -1,0 +1,8 @@
+**OAndBackupX 0.9.12 (aka 1.0.0-rc1)**
+* Dodano: skrót do informacji o aplikacji w arkuszu aplikacji
+* Zaktualizowano: uderzenie elementów interfejsu użytkownika
+* Zaktualizowano: nowy domyślny katalog kopii zapasowych /OAndBackupX
+* Naprawiono: zachowanie adaptera po wykonaniu działań
+* Naprawiono: awarię adaptera
+* Przełączono: z czyszczenia pamięci podręcznej aplikacji na wykluczenie jej z kopii zapasowej (Credit @icewind1991)
+* Poprawiono: zachowanie różnych elementów interfejsu użytkownika

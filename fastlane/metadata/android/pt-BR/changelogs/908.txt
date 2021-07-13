@@ -1,0 +1,6 @@
+**OAndBackupX 0.9.8**
+* Corrigido: lembrar-se do filtro
+* Corrigido: escolher o valor para backups antigos
+* Corrigido: lista filtrada vazia causando falha
+* Ajustado: interface do Agendador
+* Outros ajustes

@@ -1,0 +1,8 @@
+**OAndBackupX 0.9.12 (também conhecido como 1.0.0-rc1)**
+* Adicionado: atalho de informações do aplicativo na Planilha de aplicativos
+* Atualizado: furos de elementos da interface
+* Atualizado: novo diretório de backup padrão /OAndBackupX
+* Corrigido: comportamento do adaptador após realizar ações
+* Corrigido: falha do adaptador
+* Alterado: de limpar o cache do aplicativo para excluí-lo do backup (Crédito @icewind1991)
+* Ajustado: comportamento de diferentes elementos da interface

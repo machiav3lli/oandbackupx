@@ -1,0 +1,6 @@
+* Mis à jour : Amélioration des commandes shell (@hg42)
+* Corrigé : Correction Linux contexte (@jakeler & @hg42)
+* Corrigé : Sauvegarde échoué à cause d'un nom à double espace (@jakeler)
+* Corrigé : Lancer une exception sur les sockets et autres fichiers spéciaux (@hg42)
+* Corrigé : Sauvegarde échoué à cause nom à double espace (@jakeler)
+* Traductions mises à jour : Polonais, Portugais, Chinois, Grec, Allemand, Français, Norvégien, Néerlandais, Espagnole, Italien, Indonésien, Japonais, Russe

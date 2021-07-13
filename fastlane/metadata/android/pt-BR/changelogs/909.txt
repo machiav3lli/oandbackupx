@@ -1,0 +1,2 @@
+**OAndBackupX 0.9.9**
+* Removido: Verificar se há Atualizações (preparando para lançamento do F-Droid)

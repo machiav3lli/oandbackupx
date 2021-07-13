@@ -1,0 +1,9 @@
+LIMPAR DADOS NECESSÁRIO
+* Adicionado: Exportação/importação de agendamentos
+* Adicionado: Suporte de classificação crescente/decrescente
+* Atualizado: a lista de bloqueio global se aplica ao principal
+* Atualizado: Use as caixas de seleção dos modos nas caixas de diálogo de backup/restauração/agendamento
+* Corrigido: os agendamentos não disparam no horário
+* Corrigido: notificações atrasadas de alguns aplicativos restaurados
+* Adicionado Catalão
+* Toneladas de outras melhorias/correções

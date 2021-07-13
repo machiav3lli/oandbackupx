@@ -1,0 +1,11 @@
+**OAndBackupX 3.1.1**
+
+* Adicionado: a Introdução
+* Adicionado: campo de verificação de senha de criptografia
+* Removido: preferência de caminho do Busybox
+* Corrigido: mostrando a data atual em vez do último backup
+* Corrigido: não atualizando a tag de atualização dos itens após um novo backup
+* Atualizado: Traduções (Norueguês, Russo, Italiano, Francês, Holandês, Alemão)
+* Atualizado: definir lembrar classificação/filtro para verdadeiro por padrão
+* Atualizado: defina o bloqueio biométrico para desativado por padrão
+* Atualizado: ocultar visualizador de registro

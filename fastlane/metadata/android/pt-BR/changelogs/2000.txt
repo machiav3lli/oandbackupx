@@ -1,0 +1,9 @@
+**OAndBackupX 2.0.0**
+* Migrado para sulib (Créditos @Tiefkuehlpizze)
+* Removido oab-utils para sempre (Créditos @Tiefkuehlpizze)
+* Novos elementos de IU para App-, Filter- & ScheduleSheet
+* Corrigidos backups agendados para dados (sozinho)
+* Corrigido compactação externas/data/obb de acordo com as preferências
+* Corrigido: compactação de pastas externas/ data/obb vazias
+* Função de limpeza de cache atualizada
+* Alguns outros ajustes de IU e desempenho

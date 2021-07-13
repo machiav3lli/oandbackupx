@@ -1,0 +1,4 @@
+**OAndBackupX 0.9.7**
+* Naprawiono: logikę aktualizacji
+* Usunięto: szyfrowanie PGP i podążanie za dowiązaniami symbolicznymi
+* Wyczyszczony kod

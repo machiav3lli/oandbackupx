@@ -1,0 +1,2 @@
+* Corrigé : Affichage du message en cas d'erreur (@hg42)
+* Corrigé : Problème de devis dans le processus de sauvegarde (@hg42)

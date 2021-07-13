@@ -1,0 +1,5 @@
+**OAndBackupX 0.9.10**
+* R napisane: Scheduler (należy dokładnie przetestować)
+* Naprawiono: linki w pomocy
+* Wyczyść kod
+* Ulepszenia interfejsu użytkownika tu i tam

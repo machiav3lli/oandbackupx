@@ -1,0 +1,9 @@
+EFFACEMENT DONNÉES NÉCESSAIRES
+* Ajouté : Import/Export d'horaire programmable 
+* Ajouté : Prise en charge du tri croissant/décroissant
+* Mis à jour : Liste de blocage globale s'applique à Main
+* Mis à jour : Utilisez les cases à cocher des modes dans les boîtes de dialogue de sauvegarde/restauration/planification
+* Mis à jour : Les planifications ne se déclenchent pas à temps
+* Fixé : Retard de notification d'applications restaurées
+* Ajouté Catalan
+* Plein d'autres améliorations/corrections

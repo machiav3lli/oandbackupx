@@ -1,0 +1,11 @@
+**OAndBackupX 3.2.0**
+
+* Ajouté : Nouvelle navigation
+* Ajouté : Badge pour les applications mises à jour
+* Corrigé : Enregistrement des éléments cochés dans le Batch
+* Corrigé : Synchronisation des éléments cochés dans le Batch
+* Corrigé : Crash suite a une recherche
+* Corrigé : Sorti veille
+* Fixé : Amélioration du rafraîchissement
+* Fixé : Amélioration des performances visuelles (vitesse de lancement des feuilles)
+* Fixé : Traduction (Norvégien, Néerlandais, Turc, Chinois, Portugais)

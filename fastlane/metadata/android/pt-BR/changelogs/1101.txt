@@ -1,0 +1,7 @@
+**OAndBackupX 1.1.1**
+* Adicionado: atalho do relatório Exodus para a Tabela de Apps
+* Corrigido: não inicia se houver um aplicativo com dimensões de ícone <= 0
+* Alterado: o padrão está definido agora para copiar OAndBackupX para a pasta de backup pai
+* Adicionado: Grego (Créditos @tsiflimagas)
+* Atualizado: Capitalização e Strings em Inglês (créditos: @atrate)
+* Atualizado: Chinês, Holandês, Polonês e Sueco

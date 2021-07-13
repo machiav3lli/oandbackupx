@@ -1,0 +1,4 @@
+* Corrigido: caixa de seleção Excluir aplicativos do sistema na tabela de agendamentos
+* Corrigido: Importar o valor de excluir aplicativos do sistema na importação de agendamentos
+* Adicionado: Vietnamita, Hindi & Ucraniano
+* Traduções atualizadas: Árabe, Espanhol, Italiano, Português, Russo, Catalão, Turco, Indonésio

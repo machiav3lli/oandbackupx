@@ -1,0 +1,2 @@
+* Naprawiono: wyświetlanie komunikatu o błędzie (@hg42)
+* Naprawiono: Problem z cytatem w procesie tworzenia kopii zapasowej (@hg42)

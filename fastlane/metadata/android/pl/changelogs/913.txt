@@ -1,0 +1,2 @@
+**OAndBackupX 0.9.13 (aka 1.0.0-rc2)**
+* Przywrócono: z powrotem do cp (rsync nie jest dołączany do wszystkich ROM-ów)

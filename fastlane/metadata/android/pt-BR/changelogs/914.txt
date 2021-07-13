@@ -1,0 +1,2 @@
+**OAndBackupX 0.9.14 (aka 1.0.0-rc3)**
+* Revertido: limpeza de cache de volta

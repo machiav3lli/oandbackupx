@@ -1,0 +1,6 @@
+* Zaktualizowano: modernizacja UI/UX (w kooperacji z @opepp)
+* Dodano: Narzędzie do zapisywania listy aplikacji do pliku
+* Dodano: Za dużo nowych funkcji
+* Naprawiono: Planowanie kopii zapasowych
+* Zaktualizowane tłumaczenia
+* Wśród wielu innych ulepszeń
